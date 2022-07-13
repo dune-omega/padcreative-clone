@@ -2301,7 +2301,7 @@ html {
   background-color: #ddd;
 }
 .testimonial {
-  background-image: url(images/bg-close-quote-v2.png);
+  background-image: url("../img/bg-close-quote-v2.png");
   background-position: right bottom;
   background-repeat: no-repeat;
   padding-right: 3rem;
@@ -2317,7 +2317,7 @@ html {
   margin: auto;
 }
 .testimonial__holder {
-  background-image: url(images/bg-open-quote-v2.png);
+  background-image: url("../img/bg-open-quote-v2.png");
   background-position: left top;
   background-repeat: no-repeat;
   padding-top: 3rem;
@@ -2708,14 +2708,15 @@ body:not(.MSIE):not(.IE) .col-xs-1-5th {
   flex-basis: 40%;
 }
 .guide-cta__ticks {
-  margin-left: 2.4rem;
+  /* margin-left: 2.4rem; */
 }
 .guide-cta__ticks li {
   font-weight: normal;
   color: #0a304d;
+  padding-inline-start: 0.9rem;
 }
 .guide-cta__ticks li::marker {
-  content: "âœ“  ";
+  content: "✓";
   color: #be4d6d;
   font-size: 120%;
 }
