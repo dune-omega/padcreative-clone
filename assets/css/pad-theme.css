@@ -351,7 +351,7 @@ body.scroll {
 a {
   color: #0a304d;
   text-decoration: none;
-  cursor: pointer;
+  /* cursor: pointer;*/
   transition: all 0.5s;
 }
 a:hover,
@@ -5627,9 +5627,9 @@ body.Edge .home .bg-video__content {
   -ms-transition: all 0.5s;
   transition: all 0.5s;
 }
-.case-studies__item .case-studies__item-image:hover img.case-studies__image {
+/* .case-studies__item .case-studies__item-image:hover img.case-studies__image {
   opacity: 0.5;
-}
+} */
 .case-studies__item .case-studies__item-image:hover img.case-studies__btn-more {
   width: 70px;
   height: 70px;
