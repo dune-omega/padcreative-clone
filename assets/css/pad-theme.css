@@ -2910,7 +2910,6 @@ body:not(.MSIE):not(.IE) .col-xs-1-5th {
 }
 .form .ginput_container_select {
   background-color: #ddd;
-  background-image: url(images/arrow-down.png);
   background-position: right center;
   background-repeat: no-repeat;
   padding: 1rem;
