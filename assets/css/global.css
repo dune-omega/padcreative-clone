@@ -5,3 +5,31 @@
 #header__image__about {
   background-image: url("../img/about-us.jpg");
 }
+
+.service-intro__image {
+  background-image: url("../img/Print-Design-Aegis-Brochure-Illustration.jpg");
+}
+
+#website_build_success {
+  background-color: #83429a;
+}
+
+#website_build_success_arrow {
+  border-bottom-color: #83429a;
+}
+
+#website_build_growth {
+  background-color: #a68955;
+}
+
+#website_build_growth_arrow {
+  border-top-color: #a68955;
+}
+
+#website_build_inbound {
+  background-color: #bf0000;
+}
+
+#website_build_inbound_arrow {
+  border-bottom-color: #bf0000;
+}
