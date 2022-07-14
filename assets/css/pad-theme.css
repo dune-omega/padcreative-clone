@@ -2301,7 +2301,7 @@ html {
   background-color: #ddd;
 }
 .testimonial {
-  background-image: url("../img/bg-close-quote-v2.png");
+  background-image: url("../img/bg-close-quote.png");
   background-position: right bottom;
   background-repeat: no-repeat;
   padding-right: 3rem;
@@ -2317,7 +2317,7 @@ html {
   margin: auto;
 }
 .testimonial__holder {
-  background-image: url("../img/bg-open-quote-v2.png");
+  background-image: url("../img/bg-open-quote.png");
   background-position: left top;
   background-repeat: no-repeat;
   padding-top: 3rem;
@@ -4510,13 +4510,13 @@ body.Edge .home .bg-video__content {
 }
 .service-page .service-what-brings__quote {
   padding-top: 4rem;
-  background-image: url(images/bg-open-quote.png);
+  background-image: url(../img/bg-open-quote.png);
   background-position: left top;
   background-repeat: no-repeat;
   background-size: 4rem auto;
 }
 .service-page .service-what-brings__quote p {
-  background-image: url(images/bg-close-quote.png);
+  background-image: url(../img/bg-close-quote.png);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: 4rem auto;
